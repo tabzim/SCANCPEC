@@ -1,0 +1,2205 @@
+economic	economic	Adjective
+develop	develop	Verb, base form
+region	region	Noun, singular or mass
+opportunity	opportunity	Noun, singular or mass
+prosper	prosper	Verb, base form
+invest	invest	Verb, base form
+benefit	benefit	Noun, singular or mass
+trade	trade	Noun, singular or mass
+secure	secure	Adjective
+economic	economic	Adjective
+bring	bring	Verb, base form
+game	game	Adjective
+changer	changer	Noun, singular or mass
+power	power	Noun, singular or mass
+progress	progress	Noun, singular or mass
+corridor	corridor	Noun, singular or mass
+success	success	Noun, singular or mass
+great	great	Adjective
+future	future	Adjective
+peace	peace	Noun, singular or mass
+interest	interest	Noun, singular or mass
+energy	energy	Noun, singular or mass
+growth	growth	Noun, singular or mass
+boost	boost	Noun, singular or mass
+hope	hope	Noun, singular or mass
+include	include	Verb, base form
+good	good	Adjective
+friendship	friendship	Noun, singular or mass
+support	support	Noun, singular or mass
+ensure	ensure	Verb, base form
+need	need	Noun, singular or mass
+thank	thank	Verb, base form
+better	well	Adverb, comparative
+right	right	Adverb
+betterpakistan	betterpakistan	Adjective
+friend	friend	Noun, singular or mass
+largest	large	Adjective, superlative
+stronger	strong	Adjective, comparative
+bless	bless	Verb, base form
+package	package	Noun, singular or mass
+try	try	Verb, base form
+interchang	interchang	Noun, singular or mass
+note	note	Noun, singular or mass
+distribute	distribute	Verb, base form
+income	income	Noun, singular or mass
+heavy	heavy	Adjective
+peace	peace	Noun, singular or mass
+worldbank	worldbank	Noun, singular or mass
+indepth	indepth	Adjective
+loung	loung	Adjective
+mostly	mostly	Adverb
+academia	academia	Noun, singular or mass
+resort	resort	Noun, singular or mass
+unique	unique	Adjective
+volatile	volatile	Adjective
+weldone	weldone	Verb, past participle
+heaven	heaven	Noun, singular or mass
+freedom	freedom	Noun, singular or mass
+safe	safe	Adjective
+complete	complete	Adjective
+wai	wai	Verb, non -3rd person singular present
+part	part	Noun, singular or mass
+construct	construct	Noun, singular or mass
+help	help	Verb, base form
+gener	gener	Noun, singular or mass
+get	get	Verb, base form
+every	every	Determiner
+plan	plan	Noun, singular or mass
+port	port	Noun, singular or mass
+due	due	Adjective
+industry	industry	Noun, singular or mass
+cooperate	cooperate	Verb, base form
+hub	hub	Noun, singular or mass
+increase	increase	Noun, singular or mass
+transform	transform	Verb, base form
+global	global	Adjective
+real	real	Adjective
+social	social	Adjective
+want	want	Verb, base form
+build	build	Verb, base form
+belt	belt	Noun, singular or mass
+positive	positive	Adjective
+give	give	Verb, base form
+institute	institute	Noun, singular or mass
+revolution	revolution	Noun, singular or mass
+approve	approve	Verb, base form
+gamechanger	gamechanger	Noun, singular or mass
+potential	potential	Adjective
+integrated	integrate	Verb, past participle
+upgrade	upgrade	Adjective
+far	far	Adverb
+shape	shape	Noun, singular or mass
+well	well	Adverb
+stand	stand	Noun, singular or mass
+modern	modern	Adjective
+let	let	Verb, base form
+possibl	possibl	Adjective
+near	near	Preposition or subordinating conjunction
+employe	employe	Noun, singular or mass
+massive	massive	Adjective
+almost	almost	Adverb
+phase	phase	Noun, singular or mass
+propose	propose	Verb, base form
+feder	feder	Noun, singular or mass
+launch	launch	Verb, base form
+higher	high	Adverb, comparative
+destiniation	destiniation	Noun, singular or mass
+base	base	Noun, singular or mass
+leader	leader	Noun, singular or mass
+enable	enable	Verb, base form
+concern	concern	Noun, singular or mass
+term	term	Noun, singular or mass
+intend	intend	Verb, base form
+shall	shall	Modal
+factory	factory	Noun, singular or mass
+worldwide	worldwide	Adverb
+revive	revive	Verb, base form
+greater	great	Adjective, comparative
+field	field	Noun, singular or mass
+despite	despite	Preposition or subordinating conjunction
+save	save	Verb, base form
+expand	expand	Verb, base form
+sustain	sustain	Verb, base form
+cross	cross	Noun, singular or mass
+military	military	Adjective
+main	main	Adjective
+bigest	big	Adjective, superlative
+risingpakistan	risingpakistan	Adjective
+head	head	Noun, singular or mass
+service	service	Noun, singular or mass
+respect	respect	Noun, singular or mass
+brandn	brandn	Noun, singular or mass
+bright	bright	Adjective
+facility	facility	Noun, singular or mass
+stable	stable	Adjective
+satisfy	satisfy	Verb, base form
+player	player	Noun, singular or mass
+group	group	Noun, singular or mass
+defend	defend	Verb, base form
+everlast	everlast	Adjective
+forum	forum	Noun, singular or mass
+feasible	feasible	Adjective
+singl	singl	Adjective
+trust	trust	Noun, singular or mass
+discuss	discuss	Verb, base form
+enter	enter	Verb, base form
+geoeconom	geoeconom	Noun, singular or mass
+see	see	Verb, base form
+food	food	Noun, singular or mass
+together	together	Adverb
+brighter	bright	Adjective, comparative
+union	union	Noun, singular or mass
+converg	converg	Verb, gerund or present participle
+regioâ	regioâ	Adverb
+solv	solv	Noun, singular or mass
+awai	awai	Verb, non -3rd person singular present
+account	account	Noun, singular or mass
+cpectraderout	cpectraderout	Noun, singular or mass
+diplomat	diplomat	Noun, singular or mass
+profound	profound	Adjective
+ecnomic	ecnomic	Adjective
+hamaragwadar	hamaragwadar	Noun, singular or mass
+impress	impress	Verb, base form
+cpecensure	cpecensure	Verb, base form
+polic	polic	Adjective
+harvest	harvest	Noun, singular or mass
+aknowledge	aknowledge	Noun, singular or mass
+graduat	graduat	Adjective
+abuduct	abuduct	Noun, singular or mass
+wealth	wealth	Noun, singular or mass
+courage	courage	Noun, singular or mass
+symbol	symbol	Noun, singular or mass
+commit	commit	Verb, base form
+pure	pure	Adjective
+advantage	advantage	Noun, singular or mass
+satisfactory	satisfactory	Adjective
+surprise	surprise	Noun, singular or mass
+amount	amount	Noun, singular or mass
+feel	feel	Verb, base form
+energystarvation	energystarvation	Noun, singular or mass
+physics	physic	Noun, plural
+fundament	fundament	Noun, singular or mass
+significantly	significantly	Adverb
+boom	boom	Noun, singular or mass
+justice	justice	Noun, singular or mass
+stance	stance	Noun, singular or mass
+bearable	bearable	Adjective
+opportunity	opportunity	Noun, singular or mass
+speaker	speaker	Noun, singular or mass
+extern	extern	Noun, singular or mass
+worth	worth	Adjective
+evid	evid	Adjective
+diamer	diamer	Noun, singular or mass
+perfectly	perfectly	Adverb
+donate	donate	Verb, base form
+employe	employe	Noun, singular or mass
+legisle	legisle	Noun, singular or mass
+smoothly	smoothly	Adverb
+steadily	steadily	Adverb
+digitaleconomy	digitaleconomy	Noun, singular or mass
+merg	merg	Verb, gerund or present participle
+devp	devp	Adverb
+upcpec	upcpec	Adjective
+futureleaders	futureleaders	Noun, plural
+pakistanfuture	pakistanfuture	Adjective
+futurelead	futurelead	Adjective
+versatile	versatile	Adjective
+cpececonomic	cpececonomic	Adjective
+centrepoint	centrepoint	Noun, singular or mass
+trickle	trickle	Noun, singular or mass
+delighted	delight	Verb, past participle
+trade	trade	Noun, singular or mass
+economy	economy	Noun, singular or mass
+outstanding	outstanding	Adjective
+light	light	Adjective
+energyproject	energyproject	Noun, singular or mass
+globepakistan	globepakistan	Adjective
+empower	empower	Verb, base form
+chance	chance	Noun, singular or mass
+hire	hire	Verb, base form
+situationsai	situationsai	Verb, non -3rd person singular present
+proof	proof	Noun, singular or mass
+absurd	absurd	Adjective
+engag	engag	Noun, singular or mass
+cpecfor	cpecfor	Adjective
+tirelessli	tirelessli	Adjective
+panama	panama	Noun, singular or mass
+district	district	Noun, singular or mass
+tourist	tourist	Noun, singular or mass
+cyber	cyber	Noun, singular or mass
+shrink	shrink	Verb, base form
+generos	generos	Noun, plural
+ferri	ferri	Adjective
+tradâ	tradâ	Adverb
+trilon	trilon	Noun, singular or mass
+remedi	remedi	Adjective
+specify	specify	Verb, base form
+analysis	analysis	Noun, singular or mass
+granit	granit	Noun, singular or mass
+forecaste	forecaste	Noun, singular or mass
+reuter	reuter	Noun, singular or mass
+famili	famili	Adjective
+hike	hike	Noun, singular or mass
+hot	hot	Adjective
+inshaâ	inshaâ	Adverb
+paecbuild	paecbuild	Verb, base form
+ripple	ripple	Noun, singular or mass
+quicken	quicken	Verb, base form
+success	success	Noun, singular or mass
+pakshaheendai	pakshaheendai	Verb, non -3rd person singular present
+dealt	deal	Verb, past participle
+iron	iron	Noun, singular or mass
+tender	tender	Noun, singular or mass
+entrust	entrust	Verb, base form
+credibl	credibl	Adjective
+strive	strive	Verb, base form
+approach	approach	Noun, singular or mass
+clearly	clearly	Adverb
+law	law	Noun, singular or mass
+enforc	enforc	Adjective
+respond	respond	Verb, base form
+stablw	stablw	Adverb
+flung	fling	Verb, past participle
+cheapest	cheap	Adjective, superlative
+guid	guid	Adjective
+smooth	smooth	Adjective
+ambiti	ambiti	Noun, plural
+prospect	prospect	Noun, singular or mass
+harmony	harmony	Noun, singular or mass
+ambit	ambit	Noun, singular or mass
+aid	aid	Noun, singular or mass
+beltandroad	beltandroad	Adverb
+earth	earth	Noun, singular or mass
+tackl	tackl	Adjective
+friendsiron	friendsiron	Adjective
+brothersmor	brothersmor	Noun, singular or mass
+emphasi	emphasi	Adjective
+onebelt	onebelt	Noun, singular or mass
+underwai	underwai	Verb, non -3rd person singular present
+deputy	deputy	Adjective
+willing	will	Verb, gerund or present participle
+fed	feed	Verb, past participle
+limelight	limelight	Noun, singular or mass
+hug	hug	Noun, singular or mass
+fair	fair	Adjective
+irondont	irondont	Adjective
+guarante	guarante	Adjective
+fruit	fruit	Noun, singular or mass
+evolutionary	evolutionary	Adjective
+startup	startup	Noun, singular or mass
+outlook	outlook	Noun, singular or mass
+donor	donor	Noun, singular or mass
+imprve	imprve	Noun, singular or mass
+transmit	transmit	Verb, base form
+allocat	allocat	Adjective
+pledge	pledge	Noun, singular or mass
+fun	fun	Noun, singular or mass
+luckily	luckily	Adverb
+piec	piec	Adjective
+opportuny	opportuny	Adjective
+knowledge	knowledge	Noun, singular or mass
+enrich	enrich	Verb, base form
+dawnoftherise	dawnoftherise	Noun, singular or mass
+stage	stage	Noun, singular or mass
+defense	defense	Noun, singular or mass
+glimps	glimps	Noun, plural
+seminare	seminare	Noun, singular or mass
+welfare	welfare	Noun, singular or mass
+adopt	adopt	Verb, base form
+trustworthy	trustworthy	Adjective
+obor	obor	Noun, singular or mass
+active	active	Adjective
+establish	establish	Verb, base form
+improve	improve	Verb, base form
+mega	mega	Adjective
+big	big	Adjective
+protect	protect	Verb, base form
+lead	lead	Noun, singular or mass
+rise	rise	Noun, singular or mass
+high	high	Adjective
+special	special	Adjective
+fate	fate	Noun, singular or mass
+achieve	achieve	Verb, base form
+stabil	stabil	Noun, singular or mass
+promot	promot	Adverb
+contribut	contribut	Adverb
+polite	polite	Adjective
+greatest	great	Adjective
+express	express	Adjective
+tourism	tourism	Noun, singular or mass
+strategy	strategy	Noun, singular or mass
+enhance	enhance	Verb, base form
+strong	strong	Adjective
+happy	happy	Adjective
+strengthen	strengthen	Verb, base form
+exl	exl	Adjective
+made	make	Verb, past participle
+impact	impact	Noun, singular or mass
+various	various	Adjective
+major	major	Adjective
+plant	plant	Noun, singular or mass
+emerg	emerg	Verb, gerund or present participle
+best	good	Adjective, superlative
+fast	fast	Adverb
+keen	keen	Adjective
+inshallah	inshallah	Noun, singular or mass
+water	water	Noun, singular or mass
+investor	investor	Noun, singular or mass
+track	track	Noun, singular or mass
+util	util	Adverb
+enough	enough	Adjective
+even	even	Adverb
+overcome	overcome	Verb, base form
+view	view	Noun, singular or mass
+expert	expert	Noun, singular or mass
+skill	skill	Noun, singular or mass
+push	push	Noun, singular or mass
+relationship	relationship	Noun, singular or mass
+product	product	Noun, singular or mass
+value	value	Noun, singular or mass
+community	community	Noun, singular or mass
+wonder	wonder	Noun, singular or mass
+usher	usher	Noun, singular or mass
+wish	wish	Noun, singular or mass
+aim	aim	Noun, singular or mass
+control	control	Noun, singular or mass
+beneficiary	beneficiary	Noun, singular or mass
+serious	serious	Adjective
+successfully	successfully	Adverb
+purpose	purpose	Noun, singular or mass
+fully	fully	Adverb
+rapidly	rapidly	Adverb
+drive	drive	Noun, singular or mass
+zindabad	zindabad	Adjective
+inshaallah	inshaallah	Noun, singular or mass
+dear	dear	Adjective
+process	process	Noun, singular or mass
+defence	defense	Noun, singular or mass
+acquire	acquire	Verb, base form
+gift	gift	Noun, singular or mass
+appreciate	appreciate	Verb, base form
+mutual	mutual	Adjective
+fastest	fast	
+hardwork	hardwork	Noun, singular or mass
+further	far	Adverb, comparative
+dasu	dasu	Noun, singular or mass
+assur	assur	Noun, singular or mass
+supply	supply	Noun, singular or mass
+involve	involve	Verb, base form
+imp	imp	Noun, singular or mass
+agree	agree	Verb, base form
+upon	upon	Preposition or subordinating conjunction
+grt	grt	Noun, singular or mass
+own	own	Adjective
+affect	affect	Verb, base form
+politician	politician	Noun, singular or mass
+swing	swing	Noun, singular or mass
+earn	earn	Verb, base form
+enjoy	enjoy	Verb, base form
+reliable	reliable	Adjective
+collaborate	collaborate	Verb, base form
+accomplish	accomplish	Verb, base form
+heart	heart	Noun, singular or mass
+undoubtedli	undoubtedli	Adjective
+incred	incred	Verb, past participle
+wise	wise	Adjective
+superpow	superpow	Adverb
+equit	equit	Verb, base form
+ecommerc	ecommerc	Adjective
+ideal	ideal	Adjective
+stretegy	stretegy	Noun, singular or mass
+profit	profit	Noun, singular or mass
+partnership	partnership	Noun, singular or mass
+luxuri	luxuri	Adjective
+happen	happen	Verb, base form
+investorscpec	investorscpec	Adjective
+roshanpakistan	roshanpakistan	Adjective
+highest	high	
+smart	smart	Adjective
+shine	shine	Noun, singular or mass
+pride	pride	Noun, singular or mass
+beneficient	beneficient	Adjective
+addit	addit	Noun, singular or mass
+proudly	proudly	Adverb
+asset	asset	Noun, singular or mass
+propser	propser	Noun, singular or mass
+essenti	essenti	Noun, plural
+compliment	compliment	Noun, singular or mass
+fastestgrow	fastestgrow	Verb, base form
+strengthend	strengthend	Noun, singular or mass
+satisfact	satisfact	Noun, singular or mass
+luckiest	luckiest	Adjective, superlative
+economycpec	economycpec	Adjective
+areacpec	areacpec	Adjective
+irrevers	irrevers	Noun, plural
+brotherhood	brotherhood	Noun, singular or mass
+regionpakistan	regionpakistan	Adjective
+strength	strength	Noun, singular or mass
+fame	fame	Noun, singular or mass
+oppurtunity	oppurtunity	Noun, singular or mass
+brilliant	brilliant	Adjective
+greatly	greatly	Adverb
+revenue	revenue	Noun, singular or mass
+brave	brave	Adjective
+resiliance	resiliance	Noun, singular or mass
+revolutionâ	revolutionâ	Adverb
+pakinvestor	pakinvestor	Noun, singular or mass
+chinacpecnow	chinacpecnow	Adverb
+mashallah	mashallah	Noun, singular or mass
+cpecnowreason	cpecnowreason	Noun, singular or mass
+bricountless	bricountless	Adjective
+enthusia	enthusia	Noun, singular or mass
+revolutin	revolutin	Adjective
+deed	deed	Noun, singular or mass
+cointri	cointri	Adjective
+sparkle	sparkle	Noun, singular or mass
+thecityofgold	thecityofgold	Noun, singular or mass
+prosperity	prosperity	Noun, singular or mass
+jewel	jewel	Noun, singular or mass
+dosti	dosti	Noun, plural
+zindhabad	zindhabad	Adjective
+lifelin	lifelin	Noun, singular or mass
+exempt	exempt	Adjective
+survivefutur	survivefutur	Noun, singular or mass
+vibrant	vibrant	Adjective
+paramount	paramount	Adjective
+equal	equal	Adjective
+defencedai	defencedai	Verb, non -3rd person singular present
+award	award	Noun, singular or mass
+famous	famous	Adjective
+complimentary	complimentary	Adjective
+prospar	prospar	Adjective
+cpecbuildspakâ	cpecbuildspakâ	Adverb
+enthusiasm	enthusiasm	Noun, singular or mass
+reconstruct	reconstruct	Verb, base form
+ancient	ancient	Adjective
+unity	unity	Noun, singular or mass
+lovechina	lovechina	Noun, singular or mass
+forthwith	forthwith	Adverb
+sane	sane	Adjective
+stateoftheart	stateoftheart	Noun, singular or mass
+constitut	constitut	Adverb
+development	development	Noun, singular or mass
+destination	destination	Noun, singular or mass
+imposse	imposse	Adjective
+mass	mass	Noun, singular or mass
+pois	poi	Noun, plural
+horizon	horizon	Noun, singular or mass
+kickstart	kickstart	Noun, singular or mass
+spirit	spirit	Noun, singular or mass
+won	win	Verb, past tense
+strongly	strongly	Adverb
+donât	donât	Adverb
+insha	insha	Noun, singular or mass
+allah	allah	Noun, singular or mass
+frndshp	frndshp	Adverb
+success	success	Noun, singular or mass
+confident	confident	Adjective
+traitor	traitor	Noun, singular or mass
+beautifully	beautifully	Adverb
+grate	grate	Noun, singular or mass
+bnfit	bnfit	Adjective
+admir	admir	Noun, singular or mass
+flourish	flourish	Noun, singular or mass
+richer	rich	Adjective, comparative
+kprisesforcpec	kprisesforcpec	Adjective
+glad	glad	Adjective
+access	access	Noun, singular or mass
+dawn	dawn	Noun, singular or mass
+devlopmnt	devlopmnt	Noun, singular or mass
+credibilityâ	credibilityâ	Adverb
+alhamdulillah	alhamdulillah	Noun, singular or mass
+prosper	prosper	Verb, base form
+truly	truly	Adverb
+advance	advance	Noun, singular or mass
+cpecpower	cpecpower	Noun, singular or mass
+importantly	importantly	Adverb
+job	job	Noun, singular or mass
+change	change	Noun, singular or mass
+open	open	Adjective
+provide	provide	Verb, base form
+like	like	Preposition or subordinating conjunction
+work	work	Noun, singular or mass
+entire	entire	Adjective
+route	route	Noun, singular or mass
+time	time	Noun, singular or mass
+billion	billion	Noun, singular or mass
+infrastructure	infrastructure	Noun, singular or mass
+take	take	Verb, base form
+connect	connect	Verb, base form
+many	many	Pronoun
+start	start	Noun, singular or mass
+initial	initial	Adjective
+dai	dai	Verb, non -3rd person singular present
+link	link	Noun, singular or mass
+local	local	Adjective
+create	create	Verb, base form
+import	import	Noun, singular or mass
+reality	reality	Noun, singular or mass
+live	live	Adjective
+next	next	Adjective
+intern	intern	Verb, base form
+show	show	Noun, singular or mass
+educate	educate	Verb, base form
+prove	prove	Verb, base form
+life	life	Noun, singular or mass
+door	door	Noun, singular or mass
+media	media	Noun, plural
+move	move	Noun, singular or mass
+point	point	Noun, singular or mass
+motorway	motorway	Noun, singular or mass
+force	force	Noun, singular or mass
+full	full	Adjective
+armi	armi	Adjective
+ambassador	ambassador	Noun, singular or mass
+century	century	Noun, singular or mass
+market	market	Noun, singular or mass
+long	long	Adverb
+sector	sector	Noun, singular or mass
+think	think	Verb, base form
+level	level	Noun, singular or mass
+youth	youth	Noun, singular or mass
+ready	ready	Adjective
+cpecnow	cpecnow	Adverb
+expect	expect	Verb, base form
+effort	effort	Noun, singular or mass
+participate	participate	Verb, base form
+significance	significance	Noun, singular or mass
+personnel	personnel	Noun, plural
+policy	policy	Noun, singular or mass
+huge	huge	Adjective
+era	era	Noun, singular or mass
+issue	issue	Noun, singular or mass
+attract	attract	Verb, base form
+forward	forward	Adverb
+travel	travel	Noun, singular or mass
+around	around	Preposition or subordinating conjunction
+reap	reap	Verb, base form
+set	set	Verb, past participle
+railway	railway	Noun, singular or mass
+stop	stop	Verb, base form
+gateway	gateway	Noun, singular or mass
+believe	believe	Verb, base form
+run	run	Verb, past participle
+pass	pass	Verb, base form
+history	history	Noun, singular or mass
+biggest	big	Adjective, superlative
+wind	wind	Noun, singular or mass
+safety	safety	Noun, singular or mass
+pace	pace	Noun, singular or mass
+really	really	Adverb
+predict	predict	Verb, base form
+line	line	Noun, singular or mass
+regard	regard	Noun, singular or mass
+order	order	Noun, singular or mass
+speak	speak	Verb, base form
+find	find	Verb, base form
+role	role	Noun, singular or mass
+especi	especi	Adjective
+coal	coal	Noun, singular or mass
+offici	offici	Adjective
+inde	inde	Adjective
+opinion	opinion	Noun, singular or mass
+win	win	Verb, base form
+talk	talk	Noun, singular or mass
+depend	depend	Verb, base form
+uplift	uplift	Noun, singular or mass
+balanc	balanc	Noun, singular or mass
+rapid	rapid	Adjective
+former	former	Adjective
+tremend	tremend	Verb, base form
+salut	salut	Noun, singular or mass
+beyond	beyond	Preposition or subordinating conjunction
+got	get	Verb, past tense
+remark	remark	Noun, singular or mass
+digit	digit	Noun, singular or mass
+love	love	Noun, singular or mass
+announce	announce	Verb, base form
+keep	keep	Verb, base form
+proud	proud	Adjective
+geo	geo	Noun, singular or mass
+land	land	Noun, singular or mass
+worker	worker	Noun, singular or mass
+dedicate	dedicate	Verb, base form
+request	request	Noun, singular or mass
+journey	journey	Noun, singular or mass
+rank	rank	Adjective
+manpower	manpower	Noun, singular or mass
+lifetime	lifetime	Noun, singular or mass
+review	review	Noun, singular or mass
+allow	allow	Verb, base form
+red	red	Adjective
+direct	direct	Adjective
+free	free	Adjective
+hail	hail	Noun, singular or mass
+something	something	Pronoun
+bridge	bridge	Noun, singular or mass
+understand	understand	Verb, base form
+sure	sure	Adjective
+effect	effect	Noun, singular or mass
+determin	determin	Noun, singular or mass
+enorm	enorm	Noun, singular or mass
+rumour	rumour	Noun, singular or mass
+plz	plz	Noun, singular or mass
+tantamount	tantamount	Adjective
+mind	mind	Noun, singular or mass
+suezcan	suezcan	Adjective
+carri	carri	Adjective
+miracle	miracle	Noun, singular or mass
+entertain	entertain	Verb, base form
+upward	upward	Adverb
+commission	commission	Noun, singular or mass
+cheap	cheap	Adjective
+businessmen	businessman	Noun, plural
+jave	jave	Verb, base form
+exchang	exchang	Noun, singular or mass
+unlimit	unlimit	Noun, singular or mass
+god	god	Noun, singular or mass
+realign	realign	Verb, base form
+immeasur	immeasur	Noun, singular or mass
+passag	passag	Noun, singular or mass
+detail	detail	Noun, singular or mass
+arm	arm	Noun, singular or mass
+challeng	challeng	Noun, singular or mass
+assist	assist	Verb, base form
+domest	domest	Adjective, superlative
+vital	vital	Adjective
+desir	desir	Noun, singular or mass
+entri	entri	Adjective
+task	task	Noun, singular or mass
+resolv	resolv	Noun, singular or mass
+foreignpolici	foreignpolici	Adjective
+beat	beat	Verb, base form
+louder	loud	Adverb, comparative
+sacr	sacr	Noun, singular or mass
+coastal	coastal	Adjective
+termin	termin	Noun, singular or mass
+throughout	throughout	Adverb
+guard	guard	Noun, singular or mass
+unlock	unlock	Verb, base form
+rail	rail	Noun, singular or mass
+align	align	Verb, base form
+least	little	Adjective, superlative
+endorse	endorse	Verb, base form
+rightly	rightly	Adverb
+obstruct	obstruct	Verb, base form
+function	function	Noun, singular or mass
+stakehold	stakehold	Noun, singular or mass
+soft	soft	Adjective
+corner	corner	Noun, singular or mass
+raise	raise	Verb, base form
+idea	idea	Noun, singular or mass
+down	down	Adverb
+rule	rule	Noun, singular or mass
+milliniaum	milliniaum	Noun, singular or mass
+reflect	reflect	Verb, base form
+growthâ	growthâ	Adverb
+dimension	dimension	Noun, singular or mass
+surpass	surpass	Verb, base form
+rare	rare	Adjective
+investingwadar	investingwadar	Noun, singular or mass
+prelud	prelud	Noun, singular or mass
+tradeit	tradeit	Noun, singular or mass
+relationyup	relationyup	Adverb
+closer	closer	Noun, singular or mass
+popul	popul	Adjective
+grassroot	grassroot	Noun, singular or mass
+gate	gate	Noun, singular or mass
+manifest	manifest	Adjective
+wartorn	wartorn	Verb, past participle
+cpecpsx	cpecpsx	Noun, singular or mass
+bravo	bravo	Noun, singular or mass
+herald	herald	Noun, singular or mass
+cable	cable	Noun, singular or mass
+reliance	reliance	Noun, singular or mass
+river	river	Noun, singular or mass
+record	record	Noun, singular or mass
+expenditur	expenditur	Noun, singular or mass
+planner	planner	Noun, singular or mass
+redtap	redtap	Noun, singular or mass
+defunct	defunct	Adjective
+venue	venue	Noun, singular or mass
+corridorâ	corridorâ	Adverb
+presence	presence	Noun, singular or mass
+oppertunty	oppertunty	Noun, singular or mass
+multipli	multipli	Adjective
+still	still	Adverb
+spend	spend	Verb, base form
+cpecto	cpecto	Noun, singular or mass
+price	price	Noun, singular or mass
+sinopak	sinopak	Adjective
+bility	bility	Noun, singular or mass
+realiz	realiz	Noun, singular or mass
+optic	optic	Noun, singular or mass
+pakarmycpec	pakarmycpec	Adjective
+squar	squar	Adjective
+nonregion	nonregion	Noun, singular or mass
+agenc	agenc	Noun, singular or mass
+chunk	chunk	Noun, singular or mass
+embed	embed	Verb, base form
+hepresid	hepresid	Verb, past tense
+studi	studi	Adjective
+proxim	proxim	Noun, singular or mass
+memorandum	memorandum	Noun, singular or mass
+cpecensurespâ	cpecensurespâ	Adverb
+labour	labour	Noun, singular or mass
+tax	tax	Noun, singular or mass
+catapult	catapult	Noun, singular or mass
+changercan	changercan	Adjective
+core	core	Noun, singular or mass
+incent	incent	Adjective
+dayreiter	dayreiter	Noun, singular or mass
+replug	replug	Verb, base form
+longerterm	longerterm	Adjective
+heavily	heavily	Adverb
+sever	sever	Verb, base form
+interf	interf	Noun, singular or mass
+explr	explr	Noun, singular or mass
+prevail	prevail	Verb, base form
+oneroad	oneroad	Adverb
+feelingsâ	feelingsâ	Adverb
+resolut	resolut	Noun, singular or mass
+hat	hat	Noun, singular or mass
+differ	differ	Verb, base form
+case	case	Noun, singular or mass
+career	career	Noun, singular or mass
+consensue	consensue	Noun, singular or mass
+soil	soil	Noun, singular or mass
+deeper	deep	Adverb, comparative
+ocean	ocean	Noun, singular or mass
+leadership	leadership	Noun, singular or mass
+await	await	Verb, base form
+prevent	prevent	Verb, base form
+menac	menac	Adjective
+voiceofbaloch	voiceofbaloch	Noun, singular or mass
+acknowledge	acknowledge	Verb, base form
+deep	deep	Adverb
+unveil	unveil	Verb, base form
+agreement	agreement	Noun, singular or mass
+entrepreneure	entrepreneure	Noun, singular or mass
+undrstud	undrstud	Noun, singular or mass
+mesmer	mesmer	Adjective
+sunrise	sunrise	Noun, singular or mass
+consider	consider	Verb, base form
+responsibilty	responsibilty	Adjective
+realty	realty	Noun, singular or mass
+thinktank	thinktank	Noun, singular or mass
+recept	recept	Noun, singular or mass
+expo	expo	Noun, singular or mass
+nwelfar	nwelfar	Adverb
+stagecpec	stagecpec	Adjective
+economy	economy	Noun, singular or mass
+corridoor	corridoor	Adjective
+benefite	benefite	Adjective
+develop	develop	Verb, base form
+right	right	Adverb
+work	work	Noun, singular or mass
+need	need	Noun, singular or mass
+secure	secure	Adjective
+game	game	Adjective
+plan	plan	Noun, singular or mass
+invest	invest	Verb, base form
+pass	pass	Verb, base form
+help	help	Verb, base form
+support	support	Noun, singular or mass
+want	want	Verb, base form
+interest	interest	Noun, singular or mass
+changer	changer	Noun, singular or mass
+fund	fund	Noun, singular or mass
+big	big	Adjective
+billion	billion	Noun, singular or mass
+back	back	Adverb
+leader	leader	Noun, singular or mass
+keep	keep	Verb, base form
+polite	polite	Adjective
+resource	resource	Noun, singular or mass
+become	become	Verb, past participle
+live	live	Adjective
+activist	activist	Noun, singular or mass
+peac	peac	Adjective
+join	join	Verb, base form
+power	power	Noun, singular or mass
+build	build	Verb, base form
+money	money	Noun, singular or mass
+future	future	Adjective
+part	part	Noun, singular or mass
+clear	clear	Adjective
+success	success	Noun, singular or mass
+continue	continue	Verb, base form
+hand	hand	Noun, singular or mass
+prosper	prosper	Verb, base form
+military	military	Adjective
+thing	thing	Noun, singular or mass
+even	even	Adverb
+good	good	Adjective
+progress	progress	Noun, singular or mass
+great	great	Adjective
+possible	possible	Adjective
+expect	expect	Verb, base form
+think	think	Verb, base form
+worker	worker	Noun, singular or mass
+civilian	civilian	Adjective
+police	police	Noun, plural
+dream	dream	Noun, singular or mass
+claim	claim	Noun, singular or mass
+ready	ready	Adjective
+happen	happen	Verb, base form
+sovereignty	sovereignty	Noun, singular or mass
+freedom	freedom	Noun, singular or mass
+provide	provide	Verb, base form
+popul	popul	Adjective
+sure	sure	Adjective
+gatewai	gatewai	Verb, non -3rd person singular present
+agent	agent	Noun, singular or mass
+show	show	Noun, singular or mass
+job	job	Noun, singular or mass
+product	product	Noun, singular or mass
+natur	natur	Noun, singular or mass
+speak	speak	Verb, base form
+global	global	Adjective
+pleas	plea	Noun, plural
+establish	establish	Verb, base form
+environment	environment	Noun, singular or mass
+economy	economy	Noun, singular or mass
+report	report	Noun, singular or mass
+port	port	Noun, singular or mass
+million	million	Noun, singular or mass
+raise	raise	Verb, base form
+promise	promise	Noun, singular or mass
+trade	trade	Noun, singular or mass
+hope	hope	Noun, singular or mass
+effort	effort	Noun, singular or mass
+save	save	Verb, base form
+impact	impact	Noun, singular or mass
+express	express	Adjective
+construct	construct	Noun, singular or mass
+high	high	Adjective
+plz	plz	Noun, singular or mass
+long	long	Adverb
+soon	soon	Adverb
+defend	defend	Verb, base form
+basic	basic	Adjective
+distribute	distribute	Verb, base form
+well	well	Adverb
+side	side	Noun, singular or mass
+bring	bring	Verb, base form
+rest	rest	Noun, singular or mass
+drink	drink	Noun, singular or mass
+fighter	fighter	Noun, singular or mass
+made	make	Verb, past participle
+detail	detail	Noun, singular or mass
+oper	oper	Adjective
+sponsor	sponsor	Noun, singular or mass
+educ	educ	Adjective
+dear	dear	Adjective
+gamechang	gamechang	Noun, singular or mass
+thousand	thousand	Noun, singular or mass
+accept	accept	Verb, base form
+gwadarport	gwadarport	Noun, singular or mass
+tell	tell	Verb, base form
+link	link	Noun, singular or mass
+fate	fate	Noun, singular or mass
+culture	culture	Noun, singular or mass
+increase	increase	Noun, singular or mass
+rich	rich	Adjective
+fulfil	fulfil	Verb, base form
+offer	offer	Noun, singular or mass
+panamaleak	panamaleak	Adjective
+environment	environment	Noun, singular or mass
+biggest	big	Adjective, superlative
+cell	cell	Noun, singular or mass
+school	school	Noun, singular or mass
+aid	aid	Noun, singular or mass
+realize	realize	Verb, base form
+open	open	Adjective
+own	own	Adjective
+lot	lot	Noun, singular or mass
+sell	sell	Verb, base form
+agreement	agreement	Noun, singular or mass
+rise	rise	Noun, singular or mass
+serve	serve	Verb, base form
+sign	sign	Noun, singular or mass
+agenda	agenda	Noun, singular or mass
+protect	protect	Verb, base form
+far	far	Adverb
+paki	paki	Adjective
+held	hold	Verb, past participle
+real	real	Adjective
+energy	energy	Noun, singular or mass
+food	food	Noun, singular or mass
+role	role	Noun, singular or mass
+result	result	Noun, singular or mass
+declare	declare	Verb, base form
+thank	thank	Verb, base form
+stance	stance	Noun, singular or mass
+nationalist	nationalist	Adjective
+except	except	Preposition or subordinating conjunction
+better	well	Adverb, comparative
+wish	wish	Noun, singular or mass
+secret	secret	Adjective
+decision	decision	Noun, singular or mass
+consensu	consensu	Noun, singular or mass
+financial	financial	Adjective
+profit	profit	Noun, singular or mass
+top	top	Adjective
+check	check	Noun, singular or mass
+embassy	embassy	Noun, singular or mass
+lead	lead	Noun, singular or mass
+promot	promot	Adverb
+group	group	Noun, singular or mass
+active	active	Adjective
+bigger	big	Adjective, comparative
+friend	friend	Noun, singular or mass
+aim	aim	Noun, singular or mass
+believe	believe	Verb, base form
+strateg	strateg	Noun, singular or mass
+participate	participate	Verb, base form
+martyr	martyr	Noun, singular or mass
+mind	mind	Noun, singular or mass
+regard	regard	Noun, singular or mass
+love	love	Noun, singular or mass
+ensure	ensure	Verb, base form
+counter	counter	Adjective
+demand	demand	Noun, singular or mass
+action	action	Noun, singular or mass
+present	present	Adjective
+trust	trust	Noun, singular or mass
+imposse	imposse	Adjective
+pakchina	pakchina	Noun, singular or mass
+struggle	struggle	Noun, singular or mass
+condit	condit	Noun, singular or mass
+guard	guard	Noun, singular or mass
+enjoy	enjoy	Verb, base form
+care	care	Noun, singular or mass
+idea	idea	Noun, singular or mass
+caign	caign	Noun, singular or mass
+super	super	Adjective
+gain	gain	Noun, singular or mass
+elite	elite	Adjective
+zone	zone	Noun, singular or mass
+happi	happi	Noun, singular or mass
+special	special	Adjective
+inde	inde	Adjective
+win	win	Verb, base form
+best	good	Adjective, superlative
+engine	engine	Noun, singular or mass
+prove	prove	Verb, base form
+aggress	aggress	Noun, singular or mass
+divert	divert	Verb, base form
+resiste	resiste	Noun, singular or mass
+infrastructure	infrastructure	Noun, singular or mass
+elimin	elimin	Noun, singular or mass
+life	life	Noun, singular or mass
+handle	handle	Verb, base form
+statement	statement	Noun, singular or mass
+diplomat	diplomat	Noun, singular or mass
+separte	separte	Adjective
+consult	consult	Verb, base form
+aware	aware	Adjective
+democracy	democracy	Noun, singular or mass
+safe	safe	Adjective
+development	development	Noun, singular or mass
+revenue	revenue	Noun, singular or mass
+investor	investor	Noun, singular or mass
+fresh	fresh	Adjective
+reduce	reduce	Verb, base form
+achieve	achieve	Verb, base form
+multibillion	multibillion	Adjective
+domest	domest	Adjective, superlative
+bait	bait	Noun, singular or mass
+colon	colon	Noun, singular or mass
+diminish	diminish	Verb, base form
+advantag	advantag	Noun, singular or mass
+growth	growth	Noun, singular or mass
+fortune	fortune	Noun, singular or mass
+inaugure	inaugure	Noun, singular or mass
+independent	independent	Adjective
+especial	especial	Adjective
+posit	posit	Verb, base form
+implement	implement	Verb, base form
+enhance	enhance	Verb, base form
+kindly	kindly	Adverb
+worth	worth	Adjective
+hire	hire	Verb, base form
+economist	economist	Noun, singular or mass
+ethnic	ethnic	Adjective
+advoce	advoce	Noun, singular or mass
+avail	avail	Noun, singular or mass
+survive	survive	Verb, base form
+paralyz	paralyz	Noun, singular or mass
+dulery	dulery	Noun, singular or mass
+deserve	deserve	Verb, non -3rd person singular present
+pure	pure	Adjective
+resourcesâ	resourcesâ	Adverb
+referendum	referendum	Noun, singular or mass
+priority	priority	Noun, singular or mass
+wonder	wonder	Noun, singular or mass
+bomb	bomb	Noun, singular or mass
+strong	strong	Adjective
+potential	potential	Adjective
+enorm	enorm	Noun, singular or mass
+curb	curb	Verb, base form
+discriminate	discriminate	Adjective
+province	province	Noun, singular or mass
+remedy	remedy	Noun, singular or mass
+treat	treat	Verb, base form
+paradise	paradise	Noun, singular or mass
+suport	suport	Noun, singular or mass
+influence	influence	Noun, singular or mass
+largest	large	Adjective, superlative
+dedic	dedic	Adjective
+request	request	Noun, singular or mass
+beneficiary	beneficiary	Noun, singular or mass
+quality	quality	Noun, singular or mass
+contrary	contrary	Adjective
+gift	gift	Noun, singular or mass
+mile	mile	Noun, singular or mass
+prmise	prmise	Noun, singular or mass
+grow	grow	Verb, base form
+seal	seal	Noun, plural
+warm	warm	Adjective
+alleg	alleg	Noun, singular or mass
+ethic	ethic	Noun, singular or mass
+criteria	criterion	Noun, plural
+emerg	emerg	Verb, gerund or present participle
+innocent	innocent	Adjective
+reiter	reiter	Noun, singular or mass
+favorit	favorit	Noun, singular or mass
+undermin	undermin	Noun, singular or mass
+stabil	stabil	Noun, singular or mass
+sustain	sustain	Verb, base form
+opportun	opportun	Verb, past participle
+merger	merger	Noun, singular or mass
+afford	afford	Verb, base form
+earn	earn	Verb, base form
+employ	employ	Verb, base form
+wise	wise	Adjective
+strategi	strategi	Adjective
+bright	bright	Adjective
+sovereign	sovereign	Adjective
+valu	valu	Noun, singular or mass
+assur	assur	Noun, singular or mass
+nice	nice	Adjective
+zindabad	zindabad	Adjective
+favor	favor	Noun, singular or mass
+appreci	appreci	Adjective
+enrich	enrich	Verb, base form
+fair	fair	Adjective
+satisfy	satisfy	Verb, base form
+travel	travel	Noun, singular or mass
+healthy	healthy	Adjective
+attract	attract	Verb, base form
+develp	develp	Verb, base form
+vow	vow	Noun, singular or mass
+greater	great	Adjective, comparative
+visibl	visibl	Adjective
+sec	sec	Noun, singular or mass
+spill	spill	Noun, singular or mass
+prevent	prevent	Verb, base form
+economicallyâ	economicallyâ	Adverb
+risingâ	risingâ	Adverb
+undisclose	undisclose	Verb, base form
+resettl	resettl	Adjective
+demographic	demographic	Adjective
+brawn	brawn	Noun, singular or mass
+contth	contth	Noun, singular or mass
+mineralrich	mineralrich	Adjective
+lionâ	lionâ	Adverb
+pellet	pellet	Noun, singular or mass
+martyrssalut	martyrssalut	Noun, singular or mass
+rescue	rescue	Noun, singular or mass
+goodgovern	goodgovern	Verb, base form
+safer	safe	Adjective, comparative
+significance	significance	Noun, singular or mass
+prosperitymay	prosperitymay	Noun, singular or mass
+bless	bless	Verb, base form
+soul	soul	Noun, singular or mass
+stabl	stabl	Adjective
+tremend	tremend	Verb, base form
+tactic	tactic	Noun, singular or mass
+socioeconom	socioeconom	Noun, singular or mass
+developmnt	developmnt	Noun, singular or mass
+inshallah	inshallah	Noun, singular or mass
+superhighwai	superhighwai	Verb, non -3rd person singular present
+interestd	interestd	Adjective
+freetibet	freetibet	Noun, singular or mass
+eidwithpeac	eidwithpeac	Adjective
+push	push	Noun, singular or mass
+successindiaâ	successindiaâ	Adverb
+proper	proper	Adjective
+stakehold	stakehold	Noun, singular or mass
+succeed	succeed	Verb, base form
+porky	porky	Adjective
+ride	ride	Noun, singular or mass
+logist	logist	Noun, singular or mass
+health	health	Noun, singular or mass
+necessari	necessari	Adjective
+compelet	compelet	Verb, base form
+conquer	conquer	Verb, base form
+justice	justice	Noun, singular or mass
+successindiaâ	successindiaâ	Adverb
+strongâ	strongâ	Adverb
+fastest	fast	
+accomplish	accomplish	Verb, base form
+surprise	surprise	Noun, singular or mass
+happiest	happiest	Adjective, superlative
+glamour	glamour	Noun, singular or mass
+dignity	dignity	Noun, singular or mass
+secury	secury	Noun, singular or mass
+panamaresult	panamaresult	Noun, singular or mass
+foreignsecuri	foreignsecuri	Adjective
+infest	infest	Verb, base form
+standard	standard	Adjective
+faith	faith	Noun, singular or mass
+goodwil	goodwil	Noun, singular or mass
+kind	kind	Noun, singular or mass
+thankâ	thankâ	Adverb
+accid	accid	Noun, singular or mass
+genuine	genuine	Adjective
+kiss	kiss	Noun, singular or mass
+worrior	worrior	Adverb
+grtchina	grtchina	Noun, singular or mass
+unique	unique	Adjective
+fantasy	fantasy	Noun, singular or mass
+volatile	volatile	Adjective
+supreme	supreme	Adjective
+deed	deed	Noun, singular or mass
+fullproof	fullproof	Adjective
+impress	impress	Verb, base form
+slowly	slowly	Adverb
+steadily	steadily	Adverb
+wow	wow	Noun, singular or mass
+arise	arise	Verb, base form
+heritage	heritage	Noun, singular or mass
+resourcesboth	resourcesboth	Adverb
+supposit	supposit	Noun, singular or mass
+invstment	invstment	Noun, singular or mass
+strongly	strongly	Adverb
+whilst	whilst	Preposition or subordinating conjunction
+builder	builder	Noun, singular or mass
+intrstd	intrstd	Adjective
+dvlop	dvlop	Verb, base form
+behavior	behavior	Noun, singular or mass
+intellectu	intellectu	Adjective
+favour	favour	Noun, singular or mass
+strongest	strong	Adjective, superlative
+terror	terror	Noun, singular or mass
+protest	protest	Noun, singular or mass
+fail	fail	Verb, base form
+attack	attack	Noun, singular or mass
+terrorist	terrorist	Adjective
+notocpec	notocpec	Adjective
+threat	threat	Noun, singular or mass
+enemy	enemy	Noun, singular or mass
+kill	kill	Verb, base form
+stop	stop	Verb, base form
+sabotag	sabotag	Noun, singular or mass
+raw	raw	Adjective
+know	know	Verb, base form
+local	local	Adjective
+loan	loan	Noun, singular or mass
+issue	issue	Noun, singular or mass
+concerne	concerne	Adjective
+illege	illege	Noun, singular or mass
+due	due	Adjective
+debt	debt	Noun, singular or mass
+occupy	occupy	Verb, base form
+corrupt	corrupt	Adjective
+conspiracy	conspiracy	Noun, singular or mass
+genere	genere	Adverb
+complete	complete	Adjective
+change	change	Noun, singular or mass
+never	never	Adverb
+poor	poor	Adjective
+last	last	Adjective
+cost	cost	Noun, singular or mass
+force	force	Noun, singular or mass
+fake	fake	Adjective
+war	war	Noun, singular or mass
+major	major	Adjective
+deal	deal	Noun, singular or mass
+exploit	exploit	Verb, base form
+genocide	genocide	Noun, singular or mass
+look	look	Noun, singular or mass
+mean	mean	Adjective
+fear	fear	Noun, singular or mass
+anti	anti	Adjective
+worry	worry	Verb, base form
+target	target	Noun, singular or mass
+hold	hold	Verb, base form
+death	death	Noun, singular or mass
+violate	violate	Verb, base form
+fool	fool	Noun, singular or mass
+busy	busy	Adjective
+threaten	threaten	Verb, base form
+shame	shame	Noun, singular or mass
+run	run	Verb, past participle
+question	question	Noun, singular or mass
+affect	affect	Verb, base form
+failur	failur	Noun, singular or mass
+destroy	destroy	Verb, base form
+reject	reject	Verb, base form
+intern	intern	Verb, base form
+reach	reach	Verb, base form
+import	import	Noun, singular or mass
+coal	coal	Noun, singular or mass
+territory	territory	Noun, singular or mass
+abduct	abduct	Verb, base form
+remain	remain	Verb, base form
+critic	critic	Noun, singular or mass
+public	public	Adjective
+oppos	oppos	Noun, plural
+sold	sell	Verb, past participle
+voic	voic	Adjective
+deprive	deprive	Verb, base form
+reason	reason	Noun, singular or mass
+problem	problem	Noun, singular or mass
+act	act	Noun, singular or mass
+reality	reality	Noun, singular or mass
+troubl	troubl	Adjective
+mani	mani	Adjective
+isolate	isolate	Noun, singular or mass
+includ	includ	Noun, singular or mass
+disput	disput	Noun, singular or mass
+expos	expos	Noun, plural
+blame	blame	Noun, singular or mass
+alreadi	alreadi	Adjective
+talk	talk	Noun, singular or mass
+danger	danger	Noun, singular or mass
+suffer	suffer	Verb, base form
+displac	displac	Noun, singular or mass
+realli	realli	Adjective
+propaganda	propaganda	Noun, singular or mass
+bad	bad	Adjective
+exist	exist	Verb, base form
+blast	blast	Noun, singular or mass
+fact	fact	Noun, singular or mass
+full	full	Adjective
+risk	risk	Noun, singular or mass
+border	border	Noun, singular or mass
+digest	digest	Noun, singular or mass
+destruct	destruct	Verb, base form
+blind	blind	Adjective
+forget	forget	Verb, base form
+effect	effect	Noun, singular or mass
+watch	watch	Noun, singular or mass
+fight	fight	Noun, singular or mass
+might	may	Modal
+paid	pay	Verb, past participle
+proxi	proxi	Noun, singular or mass
+lack	lack	Noun, singular or mass
+entir	entir	Verb, base form
+arrest	arrest	Noun, singular or mass
+polici	polici	Adjective
+strike	strike	Noun, singular or mass
+agenc	agenc	Noun, singular or mass
+caus	caus	Adjective
+let	let	Verb, base form
+dead	dead	Adjective
+ruler	ruler	Noun, singular or mass
+sever	sever	Verb, base form
+damag	damag	Noun, singular or mass
+offici	offici	Adjective
+beg	beg	Verb, base form
+lose	lose	Verb, base form
+front	front	Adjective
+block	block	Noun, singular or mass
+meant	mean	Verb, past participle
+cheap	cheap	Adjective
+view	view	Noun, singular or mass
+yet	yet	Adverb
+burn	burn	Noun, singular or mass
+dirti	dirti	Noun, plural
+plai	plai	Verb, non -3rd person singular present
+wrong	wrong	Adjective
+frustrat	frustrat	Noun, singular or mass
+attempt	attempt	Noun, singular or mass
+black	black	Adjective
+bla	bla	Noun, singular or mass
+personnel	personnel	Noun, plural
+awai	awai	Verb, non -3rd person singular present
+wont	wont	Adjective
+parti	parti	Noun, plural
+down	down	Adverb
+small	small	Adjective
+ground	ground	Noun, singular or mass
+total	total	Adjective
+minor	minor	Adjective
+word	word	Noun, singular or mass
+unhrc	unhrc	Adjective
+lost	lose	Verb, past participle
+everyth	everyth	Noun, singular or mass
+allow	allow	Verb, base form
+first	1	Adjective
+move	move	Noun, singular or mass
+manag	manag	Noun, singular or mass
+massiv	massiv	Noun, singular or mass
+resid	resid	Verb, past tense
+feel	feel	Verb, base form
+loss	loss	Noun, singular or mass
+compani	compani	Adjective
+relat	relat	Adjective
+export	export	Noun, singular or mass
+account	account	Noun, singular or mass
+defeat	defeat	Noun, singular or mass
+heavi	heavi	Adjective
+blood	blood	Noun, singular or mass
+transit	transit	Noun, singular or mass
+doubt	doubt	Noun, singular or mass
+focu	focu	Noun, singular or mass
+foil	foil	Noun, singular or mass
+train	train	Noun, singular or mass
+nightmar	nightmar	Noun, singular or mass
+despit	despit	Noun, singular or mass
+cry	cry	Noun, singular or mass
+impos	impos	Noun, plural
+miss	miss	Verb, base form
+burnt	burn	Verb, past participle
+appar	appar	Adjective
+conflict	conflict	Noun, singular or mass
+bloodi	bloodi	Adjective
+controversi	controversi	Adjective
+lahoreblast	lahoreblast	Noun, singular or mass
+traffic	traffic	Noun, singular or mass
+badli	badli	Adjective
+alloc	alloc	Noun, singular or mass
+control	control	Noun, singular or mass
+occup	occup	Noun, singular or mass
+neglect	neglect	Noun, singular or mass
+plight	plight	Noun, singular or mass
+murder	murder	Noun, singular or mass
+sad	sad	Adjective
+quettablast	quettablast	Noun, singular or mass
+disrupt	disrupt	Verb, base form
+indulg	indulg	Verb, gerund or present participle
+harm	harm	Noun, singular or mass
+desper	desper	Noun, singular or mass
+hurdl	hurdl	Adjective
+devil	devil	Noun, singular or mass
+insurg	insurg	Verb, gerund or present participle
+end	end	Noun, singular or mass
+blunder	blunder	Noun, singular or mass
+ignor	ignor	Adjective
+challeng	challeng	Noun, singular or mass
+worst	bad	Adjective, superlative
+demolish	demolish	Verb, base form
+fruit	fruit	Noun, singular or mass
+bbcagainstcpec	bbcagainstcpec	Adjective
+burnol	burnol	Noun, singular or mass
+warrant	warrant	Noun, singular or mass
+hard	hard	Adverb
+unrest	unrest	Noun, singular or mass
+suppress	suppress	Verb, base form
+resolv	resolv	Noun, singular or mass
+visit	visit	Noun, singular or mass
+pain	pain	Noun, singular or mass
+warn	warn	Verb, base form
+thorn	thorn	Noun, singular or mass
+contribut	contribut	Adverb
+launch	launch	Verb, base form
+admit	admit	Verb, base form
+unfortun	unfortun	Verb, past participle
+puppet	puppet	Noun, singular or mass
+shut	shut	Verb, past participle
+less	less	Preposition or subordinating conjunction
+forward	forward	Adverb
+bear	bear	Noun, singular or mass
+wast	wast	Adjective
+criticis	criticis	Verb, 3rd person singular present
+debttrap	debttrap	Noun, singular or mass
+bust	bust	Noun, singular or mass
+steal	steal	Verb, base form
+jealou	jealou	Noun, singular or mass
+moron	moron	Noun, singular or mass
+dollar	dollar	Noun, singular or mass
+slave	slave	Noun, singular or mass
+injustic	injustic	Adjective
+debat	debat	Noun, singular or mass
+built	build	Verb, past participle
+main	main	Adjective
+degrad	degrad	Adverb
+headach	headach	Noun, singular or mass
+hurt	hurt	Verb, past participle
+ass	ass	Noun, singular or mass
+sick	sick	Adjective
+truth	truth	Noun, singular or mass
+greedi	greedi	Adjective
+conspir	conspir	Noun, singular or mass
+proof	proof	Noun, singular or mass
+daydream	daydream	Noun, singular or mass
+weak	weak	Adjective
+deem	deem	Verb, base form
+kick	kick	Noun, singular or mass
+destabil	destabil	Noun, singular or mass
+hype	hype	Noun, singular or mass
+drown	drown	Verb, base form
+crisi	crisi	Adjective
+slaveri	slaveri	Adjective
+hatr	hatr	Noun, singular or mass
+deceiv	deceiv	Noun, singular or mass
+antichina	antichina	Noun, singular or mass
+weapon	weapon	Noun, singular or mass
+nonsens	nonsens	Noun, plural
+plunder	plunder	Noun, singular or mass
+borrow	borrow	Verb, base form
+hospit	hospit	Noun, singular or mass
+spy	spy	Noun, singular or mass
+beggar	beggar	Noun, singular or mass
+citizen	citizen	Noun, singular or mass
+fire	fire	Noun, singular or mass
+difficult	difficult	Adjective
+phobia	phobia	Noun, singular or mass
+incompet	incompet	Noun, singular or mass
+evid	evid	Adjective
+neg	neg	Noun, singular or mass
+destabilis	destabilis	Noun, plural
+anticpec	anticpec	Adjective
+seriou	seriou	Noun, singular or mass
+tax	tax	Noun, singular or mass
+trap	trap	Noun, singular or mass
+stage	stage	Noun, singular or mass
+blow	blow	Noun, singular or mass
+indigen	indigen	Noun, singular or mass
+hatch	hatch	Noun, singular or mass
+dump	dump	Verb, base form
+hell	hell	Noun, singular or mass
+reserv	reserv	Noun, singular or mass
+stake	stake	Noun, singular or mass
+rob	rob	Verb, base form
+disinform	disinform	Verb, base form
+idiot	idiot	Noun, singular or mass
+dare	dare	Noun, singular or mass
+underdevelop	underdevelop	Verb, base form
+ruin	ruin	Noun, singular or mass
+pseudo	pseudo	Adjective
+alert	alert	Adjective
+hot	hot	Adjective
+ongo	ongo	Noun, singular or mass
+jail	jail	Noun, singular or mass
+avoid	avoid	Verb, base form
+shutter	shutter	Noun, singular or mass
+explod	explod	Adjective
+exempt	exempt	Adjective
+retard	retard	Verb, base form
+thrown	throw	Verb, past participle
+notocpecâ	notocpecâ	Adverb
+unemploi	unemploi	Adjective
+martyrdom	martyrdom	Noun, singular or mass
+casualti	casualti	Noun, plural
+wound	wound	Noun, singular or mass
+snatch	snatch	Verb, base form
+bastard	bastard	Adjective
+sanction	sanction	Noun, singular or mass
+accus	accus	Noun, singular or mass
+weep	weep	Verb, base form
+deplor	deplor	Noun, singular or mass
+cpecraw	cpecraw	Adjective
+cun	cun	Verb, past participle
+doom	doom	Noun, singular or mass
+die	die	Verb, base form
+bitter	bitter	Adjective
+deadli	deadli	Adjective
+ugli	ugli	Adjective
+dragon	dragon	Noun, singular or mass
+fart	fart	Noun, singular or mass
+foot	foot	Noun, singular or mass
+diseas	diseas	Adverb
+imperi	imperi	Adjective
+extremlei	extremlei	Adjective
+gunpoint	gunpoint	Verb, base form
+toilet	toilet	Noun, singular or mass
+limit	limit	Noun, singular or mass
+balochgenocid	balochgenocid	Noun, singular or mass
+ill	ill	Adjective
+hahaha	hahaha	Noun, singular or mass
+nut	nut	Noun, singular or mass
+rent	rent	Noun, singular or mass
+antipak	antipak	Adjective
+repaid	repay	Verb, past participle
+follow	follow	Verb, base form
+race	race	Noun, singular or mass
+eventu	eventu	Adjective
+sour	sour	Adjective
+hazard	hazard	Noun, singular or mass
+indirectli	indirectli	Adjective
+condemn	condemn	Verb, base form
+troll	troll	Noun, singular or mass
+sake	sake	Noun, singular or mass
+sectarian	sectarian	Adjective
+hater	hater	Adjective, comparative
+disputearea	disputearea	Noun, singular or mass
+surrend	surrend	Noun, singular or mass
+bias	bias	Noun, singular or mass
+seek	seek	Verb, base form
+rape	rape	Noun, singular or mass
+shud	shud	Noun, singular or mass
+heavili	heavili	Adjective
+bark	bark	Noun, singular or mass
+instabl	instabl	Adjective
+insight	insight	Noun, singular or mass
+stole	steal	Verb, past tense
+mistak	mistak	Adjective
+crimin	crimin	Noun, singular or mass
+leagu	leagu	Noun, singular or mass
+enforc	enforc	Adjective
+disappear	disappear	Verb, base form
+gambl	gambl	Adjective
+miser	miser	Noun, singular or mass
+tortur	tortur	Noun, singular or mass
+terrorstatepak	terrorstatepak	Adjective
+shortag	shortag	Noun, singular or mass
+repay	repay	Verb, base form
+hypocrisi	hypocrisi	Adjective
+crime	crime	Noun, singular or mass
+dispossess	dispossess	Verb, base form
+savethar	savethar	Noun, singular or mass
+myth	myth	Noun, singular or mass
+jobless	jobless	Adjective
+stoke	stoke	Noun, singular or mass
+dirt	dirt	Noun, singular or mass
+obsess	obsess	Verb, base form
+cautiou	cautiou	Noun, singular or mass
+spoil	spoil	Noun, singular or mass
+urg	urg	Verb, gerund or present participle
+crise	crise	Noun, singular or mass
+shameless	shameless	Adjective
+grab	grab	Verb, base form
+hit	hit	Verb, past participle
+freesindhudesh	freesindhudesh	Adjective
+trigger	trigger	Verb, base form
+bent	bent	Noun, singular or mass
+vote	vote	Noun, singular or mass
+reaction	reaction	Noun, singular or mass
+bloodsh	bloodsh	Adjective
+fall	fall	Noun, singular or mass
+disturb	disturb	Verb, base form
+decad	decad	Adverb
+offens	offens	Noun, plural
+organis	organis	Noun, singular or mass
+consent	consent	Noun, singular or mass
+mislead	mislead	Verb, base form
+drag	drag	Noun, singular or mass
+nocpec	nocpec	Adjective
+remov	remov	Noun, singular or mass
+sacr	sacr	Noun, singular or mass
+terrori	terrori	Adjective
+loser	loser	Adjective
+bribe	bribe	Noun, singular or mass
+disinfo	disinfo	Adverb
+suck	suck	Verb, base form
+nois	nois	Verb, 3rd person singular present
+ban	ban	Noun, singular or mass
+hundr	hundr	Noun, singular or mass
+agnst	agnst	Adverb
+rumor	rumor	Noun, singular or mass
+violent	violent	Adjective
+hinder	hinder	Verb, base form
+demograph	demograph	Noun, singular or mass
+execut	execut	Noun, singular or mass
+holycow	holycow	Noun, singular or mass
+threatâ	threatâ	Adverb
+useless	useless	Adjective
+baseless	baseless	Adjective
+rawfund	rawfund	Noun, singular or mass
+fearindia	fearindia	Noun, plural
+depress	depress	Verb, base form
+ditch	ditch	Noun, singular or mass
+lahoreshak	lahoreshak	Adjective
+wtf	wtf	Adjective
+boredom	boredom	Noun, singular or mass
+affectd	affectd	Adjective
+infect	infect	Verb, base form
+discriminatori	discriminatori	Adjective
+bow	bow	Noun, singular or mass
+sentiment	sentiment	Noun, singular or mass
+downwithchina	downwithchina	Noun, singular or mass
+sink	sink	Noun, singular or mass
+evil	evil	Adjective
+embrac	embrac	Adjective
+warehous	warehous	Adjective
+doldrum	doldrum	Noun, singular or mass
+dillyd	dillyd	Adjective
+jeopardis	jeopardis	Verb, 3rd person singular present
+insuffici	insuffici	Adjective
+brain	brain	Noun, singular or mass
+disastr	disastr	Noun, singular or mass
+notochina	notochina	Noun, singular or mass
+allergi	allergi	Adjective
+dismiss	dismiss	Verb, base form
+statmnt	statmnt	Noun, singular or mass
+goatshit	goatshit	Verb, past participle
+stolen	steal	Verb, past participle
+mourner	mourner	Noun, singular or mass
+protestor	protestor	Noun, singular or mass
+butcher	butcher	Noun, singular or mass
+hardli	hardli	Adjective
+regret	regret	Noun, singular or mass
+terrorismhub	terrorismhub	Noun, singular or mass
+hypocrit	hypocrit	Noun, singular or mass
+bash	bash	Noun, singular or mass
+hahahahah	hahahahah	Noun, singular or mass
+ouch	ouch	Noun, singular or mass
+tear	tear	Noun, singular or mass
+joke	joke	Noun, singular or mass
+humili	humili	Adjective
+nottochina	nottochina	Noun, singular or mass
+bleed	bleed	Verb, base form
+proxim	proxim	Noun, singular or mass
+rip	rip	Noun, singular or mass
+shed	shed	Verb, past participle
+indianflesh	indianflesh	Noun, singular or mass
+earmark	earmark	Verb, base form
+antist	antist	Noun, singular or mass
+crtisicm	crtisicm	Noun, singular or mass
+shutupmodi	shutupmodi	Adjective
+strict	strict	Adjective
+appoint	appoint	Verb, base form
+break	break	Noun, singular or mass
+halt	halt	Noun, singular or mass
+hatchng	hatchng	Verb, gerund or present participle
+pinch	pinch	Noun, singular or mass
+boycottchina	boycottchina	Noun, singular or mass
+summon	summon	Verb, base form
+sidelin	sidelin	Noun, singular or mass
+poorpoor	poorpoor	Adjective
+behav	behav	Noun, singular or mass
+breakingnew	breakingnew	Adjective
+unitendefend	unitendefend	Verb, base form
+destabalis	destabalis	Noun, plural
+selfsuicid	selfsuicid	Noun, singular or mass
+theft	theft	Noun, singular or mass
+violenceâ	violenceâ	Adverb
+intervent	intervent	Noun, singular or mass
+poorest	poor	Adjective, superlative
+helpless	helpless	Adjective
+treat	treat	Verb, base form
+diedkulbhushan	diedkulbhushan	Adjective
+devast	devast	Adjective
+oppress	oppress	Verb, base form
+thrive	thrive	Verb, base form
+rapen	rapen	Adjective
+loos	loo	Noun, plural
+bang	bang	Noun, singular or mass
+bumpercrop	bumpercrop	Noun, singular or mass
+gamecrop	gamecrop	Noun, singular or mass
+catalyst	catalyst	Noun, singular or mass
+neutral	neutral	Adjective
+fcked	fcked	Adjective
+upset	upset	Verb, past participle
+asham	asham	Noun, singular or mass
+disallow	disallow	Verb, base form
+annoy	annoy	Verb, base form
+smaller	small	Adjective, comparative
+broken	break	Verb, past participle
+genocidâ	genocidâ	Adverb
+nottocpec	nottocpec	Adjective
+bullet	bullet	Noun, singular or mass
+abus	abus	Noun, singular or mass
+intensifi	intensifi	Adjective
+react	react	Verb, base form
+forcefulli	forcefulli	Adjective
+beyond	beyond	Preposition or subordinating conjunction
+lollypop	lollypop	Adjective
+refurbish	refurbish	Verb, base form
+expel	expel	Verb, base form
+stab	stab	Noun, singular or mass
+sniper	sniper	Noun, singular or mass
+vigor	vigor	Noun, singular or mass
+misplac	misplac	Noun, singular or mass
+anarchi	anarchi	Noun, plural
+mire	mire	Noun, singular or mass
+assault	assault	Noun, singular or mass
+shamelessli	shamelessli	Adjective
+problemâ	problemâ	Adverb
+smoke	smoke	Noun, singular or mass
+auch	auch	Adjective
+conspirac	conspirac	Adjective
+butt	butt	Noun, singular or mass
+interrupt	interrupt	Verb, base form
+miserablyw	miserablyw	Adverb
+mohmandblast	mohmandblast	Noun, singular or mass
+actagainstpak	actagainstpak	Adjective
+complicit	complicit	Adjective
+banmqm	banmqm	Noun, singular or mass
+asylum	asylum	Noun, singular or mass
+unexpect	unexpect	Verb, base form
+hostag	hostag	Noun, singular or mass
+insecur	insecur	Verb, base form
+pagal	pagal	Adjective
+bet	bet	Noun, singular or mass
+terrorismâ	terrorismâ	Adverb
+bureaucraci	bureaucraci	Adjective
+hang	hang	Verb, base form
+avert	avert	Verb, base form
+damb	damb	Noun, singular or mass
+hoshap	hoshap	Noun, singular or mass
+stopchina	stopchina	Noun, singular or mass
+saynotochina	saynotochina	Noun, singular or mass
+jeolou	jeolou	Noun, singular or mass
+grape	grape	Noun, singular or mass
+panic	panic	Noun, singular or mass
+concernd	concernd	Noun, singular or mass
+allegedli	allegedli	Adjective
+chinesedebt	chinesedebt	Noun, singular or mass
+propoganda	propoganda	Noun, singular or mass
+misconcept	misconcept	Noun, singular or mass
+determin	determin	Noun, singular or mass
+hullabaloo	hullabaloo	Noun, singular or mass
+wori	wori	Adjective
+terorist	terorist	Adjective
+terrorsit	terrorsit	Noun, singular or mass
+threatcpec	threatcpec	Adjective
+mistress	mistress	Noun, singular or mass
+ruthlessli	ruthlessli	Adjective
+caution	caution	Noun, singular or mass
+preciou	preciou	Noun, singular or mass
+bef	bef	Adjective
+defect	defect	Noun, singular or mass
+bound	bind	Verb, past participle
+greed	greed	Noun, singular or mass
+ctry	ctry	Noun, singular or mass
+fallfail	fallfail	Verb, base form
+hijack	hijack	Verb, base form
+unleash	unleash	Verb, base form
+seiz	seiz	Noun, singular or mass
+blabâ	blabâ	Adverb
+intrud	intrud	Noun, singular or mass
+deni	deni	Adjective
+invas	invas	Noun, singular or mass
+uncertainti	uncertainti	Noun, plural
+diplomaci	diplomaci	Adjective
+harass	harass	Verb, base form
+thread	thread	Noun, singular or mass
+liar	liar	Noun, singular or mass
+pollutiontemp	pollutiontemp	Noun, singular or mass
+guilti	guilti	Noun, plural
+exhaust	exhaust	Noun, singular or mass
+gase	gase	Noun, singular or mass
+thrwn	thrwn	Adverb
+eeewwwww	eeewwwww	Adverb
+smell	smell	Noun, singular or mass
+wipe	wipe	Verb, base form
+utter	utter	Adjective
+excus	excus	Noun, singular or mass
+thiev	thiev	Noun, singular or mass
+earthquak	earthquak	Adjective
+punctur	punctur	Noun, singular or mass
+grave	grave	Adjective
+mistrust	mistrust	Noun, singular or mass
+perceiv	perceiv	Noun, singular or mass
+anxieti	anxieti	Noun, plural
+masturb	masturb	Verb, base form
+violenc	violenc	Noun, singular or mass
+broker	broker	Noun, singular or mass
+garbag	garbag	Noun, singular or mass
+fist	fist	Noun, singular or mass
+funer	funer	Noun, singular or mass
+stupid	stupid	Adjective
+crazi	crazi	Noun, plural
+crybabi	crybabi	Adjective
+damn	damn	Adverb
+crisiscaus	crisiscaus	Adjective
+rid	rid	Verb, base form
+injur	injur	Noun, singular or mass
+gun	gun	Noun, singular or mass
+screw	screw	Noun, singular or mass
+abund	abund	Noun, singular or mass
+climatechang	climatechang	Noun, singular or mass
+loselos	loselos	Noun, plural
+brainwash	brainwash	Verb, base form
+buck	buck	Noun, singular or mass
+fking	fking	Verb, gerund or present participle
+bastardson	bastardson	Noun, singular or mass
+spare	spare	Adjective
+nondebt	nondebt	Noun, singular or mass
+beaten	beat	Verb, past participle
+casulti	casulti	Noun, plural
+prison	prison	Noun, singular or mass
+territoâ	territoâ	Adverb
+advers	advers	Noun, plural
+tenshen	tenshen	Adverb
+skim	skim	Verb, base form
+hollow	hollow	Adjective
+migrat	migrat	Noun, singular or mass
+crap	crap	Noun, singular or mass
+spend	spend	Verb, base form
+remot	remot	Adverb
+abducte	abducte	Adjective
+donkei	donkei	Adjective
+burden	burden	Noun, singular or mass
+unemploy	unemploy	Verb, base form
+nuke	nuke	Noun, singular or mass
+bore	bore	Noun, singular or mass
+hungri	hungri	Adjective
+subotag	subotag	Noun, singular or mass
+fuckin	fuckin	Noun, singular or mass
+stabber	stabber	Noun, singular or mass
+mock	mock	Adjective
+missingperson	missingperson	Noun, singular or mass
+raid	raid	Noun, singular or mass
+puzzl	puzzl	Adjective
+bitch	bitch	Noun, singular or mass
+grievanc	grievanc	Noun, singular or mass
+gunship	gunship	Noun, singular or mass
+bombard	bombard	Verb, base form
+jahil	jahil	Noun, singular or mass
+mysteri	mysteri	Adjective
+utterli	utterli	Adjective
+disappoint	disappoint	Verb, base form
+comparison	comparison	Noun, singular or mass
+zone	zone	Noun, singular or mass
+relat	relat	Adjective
+foreign	foreign	Adjective
+busy	busy	Adjective
+highwai	highwai	Verb, non -3rd person singular present
+join	join	Verb, base form
+unit	unit	Noun, singular or mass
+terror	terror	Noun, singular or mass
+against	against	Preposition or subordinating conjunction
+go	go	Verb, base form
+offer	offer	Noun, singular or mass
+soon	soon	Adverb
+reduc	reduc	Adjective
+look	look	Noun, singular or mass
+gain	gain	Noun, singular or mass
+central	central	Adjective
+network	network	Noun, singular or mass
+share	share	Noun, singular or mass
+step	step	Noun, singular or mass
+resourc	resourc	Adjective
+million	million	Noun, singular or mass
+plai	plai	Verb, non -3rd person singular present
+report	report	Noun, singular or mass
+enemi	enemi	Adjective
+crisi	crisi	Adjective
+option	option	Noun, singular or mass
+miss	miss	Verb, base form
+citi	citi	Noun, plural
+implement	implement	Verb, base form
+cost	cost	Noun, singular or mass
+propaganda	propaganda	Noun, singular or mass
+doubt	doubt	Noun, singular or mass
+bank	bank	Noun, singular or mass
+situat	situat	Adjective
+place	place	Noun, singular or mass
+state	state	Noun, singular or mass
+close	close	Adverb
+receiv	receiv	Noun, singular or mass
+highli	highli	Adjective
+reach	reach	Verb, base form
+sourc	sourc	Adjective
+rumor	rumor	Noun, singular or mass
+serious	serious	Adjective
+financ	financ	Noun, singular or mass
+thing	thing	Noun, singular or mass
+golden	golden	Adjective
+mileston	mileston	Noun, singular or mass
+grow	grow	Verb, base form
+speed	speed	Noun, singular or mass
+name	name	Noun, singular or mass
+expresswai	expresswai	Verb, non -3rd person singular present
+fact	fact	Noun, singular or mass
+requir	requir	Noun, singular or mass
+revolutionari	revolutionari	Adjective
+western	western	Adjective
+rather	rather	Adverb
+prepar	prepar	Adjective
+begin	begin	Verb, base form
+problem	problem	Noun, singular or mass
+war	war	Noun, singular or mass
+geopolit	geopolit	Noun, singular or mass
+urg	urg	Verb, gerund or present participle
+unemploy	unemploy	Verb, base form
+never	never	Adverb
+extrem	extrem	Noun, singular or mass
+export	export	Noun, singular or mass
+solar	solar	Adjective
+ahead	ahead	Adverb
+hard	hard	Adverb
+alreadi	alreadi	Adjective
+rate	rate	Noun, singular or mass
+corrupt	corrupt	Adjective
+movement	movement	Noun, singular or mass
+defeat	defeat	Noun, singular or mass
+thousand	thousand	Noun, singular or mass
+oil	oil	Noun, singular or mass
+convert	convert	Verb, base form
+gwadarport	gwadarport	Noun, singular or mass
+fire	fire	Noun, singular or mass
+deal	deal	Noun, singular or mass
+welcom	welcom	Noun, singular or mass
+amaz	amaz	Noun, singular or mass
+lose	lose	Verb, base form
+meet	meet	Verb, base form
+vast	vast	Adjective
+lower	lower	Verb, base form
+doubl	doubl	Adjective
+demand	demand	Noun, singular or mass
+cpecoffici	cpecoffici	Adjective
+bbcagainstcpec	bbcagainstcpec	Adjective
+grab	grab	Verb, base form
+environ	environ	Verb, base form
+excel	excel	Verb, base form
+cpecforkhuzdar	cpecforkhuzdar	Noun, singular or mass
+technolog	technolog	Noun, singular or mass
+lost	lose	Verb, past participle
+poverti	poverti	Noun, plural
+estat	estat	Adjective
+standard	standard	Adjective
+short	short	Adjective
+fight	fight	Noun, singular or mass
+instal	instal	Verb, base form
+admit	admit	Verb, base form
+mean	mean	Adjective
+stai	stai	Verb, non -3rd person singular present
+engin	engin	Noun, singular or mass
+noth	noth	Adverb
+turn	turn	Noun, singular or mass
+harm	harm	Noun, singular or mass
+scope	scope	Noun, singular or mass
+exactli	exactli	Adjective
+fool	fool	Noun, singular or mass
+pivot	pivot	Noun, singular or mass
+jealou	jealou	Noun, singular or mass
+hater	hater	Adjective, comparative
+gambl	gambl	Adjective
+spillov	spillov	Noun, singular or mass
+met	meet	Verb, past participle
+claim	claim	Noun, singular or mass
+healthi	healthi	Noun, plural
+tap	tap	Noun, singular or mass
+winwin	winwin	Verb, base form
+dev	dev	Noun, singular or mass
+terrorist	terrorist	Adjective
+rebound	rebound	Noun, singular or mass
+extra	extra	Adjective
+desper	desper	Noun, singular or mass
+led	lead	Verb, past participle
+site	site	Noun, singular or mass
+againt	againt	Noun, singular or mass
+notocpec	notocpec	Adjective
+strike	strike	Noun, singular or mass
+anti	anti	Adjective
+credit	credit	Noun, singular or mass
+grid	grid	Noun, singular or mass
+loadshed	loadshed	Verb, past participle
+crucial	crucial	Adjective
+hurdl	hurdl	Adjective
+throw	throw	Verb, base form
+quest	quest	Noun, singular or mass
+pleas	plea	Noun, plural
+hurt	hurt	Verb, past participle
+testament	testament	Noun, singular or mass
+messag	messag	Noun, singular or mass
+plane	plane	Noun, singular or mass
+post	post	Noun, singular or mass
+avoid	avoid	Verb, base form
+scandal	scandal	Noun, singular or mass
+particularli	particularli	Adjective
+languag	languag	Noun, singular or mass
+elimin	elimin	Noun, singular or mass
+extremist	extremist	Noun, singular or mass
+rest	rest	Noun, singular or mass
+threat	threat	Noun, singular or mass
+drag	drag	Noun, singular or mass
+airport	airport	Noun, singular or mass
+confer	confer	Verb, base form
+signboard	signboard	Noun, singular or mass
+blow	blow	Noun, singular or mass
+turnaround	turnaround	Noun, singular or mass
+prioriti	prioriti	Noun, plural
+attent	attent	Adjective
+malign	malign	Adjective
+laud	laud	Verb, base form
+piss	piss	Verb, base form
+natur	natur	Noun, singular or mass
+tension	tension	Noun, singular or mass
+wont	wont	Adjective
+warn	warn	Verb, base form
+total	total	Adjective
+debat	debat	Noun, singular or mass
+controversi	controversi	Adjective
+anticpec	anticpec	Adjective
+fake	fake	Adjective
+bad	bad	Adjective
+wrong	wrong	Adjective
+journalist	journalist	Noun, singular or mass
+neg	neg	Noun, singular or mass
+same	same	Adjective
+again	again	Adverb
+except	except	Preposition or subordinating conjunction
+mustread	mustread	Adjective
+wave	wave	Noun, singular or mass
+maritim	maritim	Noun, singular or mass
+hate	hate	Noun, singular or mass
+pollut	pollut	Noun, singular or mass
+compromis	compromis	Verb, 3rd person singular present
+securitytwo	securitytwo	Adverb
+arriv	arriv	Noun, singular or mass
+swissbusi	swissbusi	Adjective
+paranoia	paranoia	Noun, singular or mass
+starv	starv	Noun, singular or mass
+negat	negat	Adjective
+respons	respons	Noun, plural
+ident	ident	Noun, singular or mass
+rid	rid	Verb, base form
+troubl	troubl	Adjective
+tgthrr	tgthrr	Verb, base form
+conspiâ	conspiâ	Adverb
+object	object	Noun, singular or mass
+deni	deni	Adjective
+territori	territori	Adjective
+conspiraci	conspiraci	Adjective
+fail	fail	Verb, base form
+dark	dark	Adjective
+fear	fear	Noun, singular or mass
+reput	reput	Noun, singular or mass
+privileg	privileg	Noun, singular or mass
+retir	retir	Verb, base form
+cpecniswar	cpecniswar	Noun, singular or mass
+limit	limit	Noun, singular or mass
+munafiq	munafiq	Adverb
+stubbornch	stubbornch	Adjective
+drone	drone	Noun, singular or mass
+destroi	destroi	Adjective
+sake	sake	Noun, singular or mass
+disrupt	disrupt	Verb, base form
+loss	loss	Noun, singular or mass
+innoc	innoc	Noun, singular or mass
+refus	refus	Adjective
+sweep	sweep	Noun, singular or mass
+innovativeâ	innovativeâ	Adverb
+unsaf	unsaf	Adjective
+economâ	economâ	Adverb
+cherat	cherat	Noun, singular or mass
+feat	feat	Noun, singular or mass
+inter	inter	Verb, base form
+modernis	modernis	Noun, singular or mass
+buddi	buddi	Adjective
+denomin	denomin	Noun, singular or mass
+bankcrupt	bankcrupt	Adjective
+becau	becau	Noun, singular or mass
+supplement	supplement	Noun, singular or mass
+bhimber	bhimber	Noun, singular or mass
+gap	gap	Noun, singular or mass
+dar	dar	Noun, singular or mass
+toward	toward	Preposition or subordinating conjunction
+connectiviâ	connectiviâ	Adverb
+channelsâ	channelsâ	Adverb
+nightmar	nightmar	Noun, singular or mass
+changâ	changâ	Adverb
+rev	rev	Noun, singular or mass
+portion	portion	Noun, singular or mass
+cohes	cohes	Noun, plural
+longer	long	Adverb, comparative
+implic	implic	Adjective
+catalyst	catalyst	Noun, singular or mass
+premier	premier	Adjective
+mminist	mminist	Adjective
+comprehens	comprehens	Verb, 3rd person singular present
+buse	buse	Noun, singular or mass
+projectâ	projectâ	Adverb
+list	list	Noun, singular or mass
+someon	someon	Noun, singular or mass
+identifiedâ	identifiedâ	Adverb
+bui	bui	Adjective
+landbusi	landbusi	Adjective
+liter	liter	Noun, singular or mass
+afraid	afraid	Adjective
+page	page	Noun, singular or mass
+gone	go	Verb, past participle
+exce	exce	Noun, singular or mass
+bluddi	bluddi	Adjective
+cheater	cheater	Noun, singular or mass
+trigger	trigger	Verb, base form
+conspire	conspire	Verb, base form
+actual	actual	Adjective
+bye	bye	Noun, singular or mass
+qualify	qualify	Verb, base form
+drop	drop	Noun, singular or mass
+correctly	correctly	Adverb
+exploit	exploit	Verb, base form
+bullcrap	bullcrap	Noun, singular or mass
+bankrupt	bankrupt	Adjective
+fallen	fall	Verb, past participle
+meritory	meritory	Noun, singular or mass
+prong	prong	Noun, singular or mass
+tunnel	tunnel	Noun, singular or mass
+compon	compon	Noun, singular or mass
+bumper	bumper	Noun, singular or mass
+gun	gun	Noun, singular or mass
+daydream	daydream	Noun, singular or mass
+chinahandsoff	chinahandsoff	Adverb
+hide	hide	Verb, base form
+dispute	dispute	Noun, singular or mass
+entrance	entrance	Noun, singular or mass
+hinder	hinder	Verb, base form
+feature	feature	Noun, singular or mass
+poss	poss	Noun, singular or mass
+accommod	accommod	Adjective
+broken	break	Verb, past participle
+conduct	conduct	Noun, singular or mass
+freight	freight	Noun, singular or mass
+shortage	shortage	Noun, singular or mass
+shoot	shoot	Verb, base form
+lowest	low	
+disturb	disturb	Verb, base form
+undo	undo	Verb, base form
+slap	slap	Noun, singular or mass
+cpecmad	cpecmad	Adjective
+halt	halt	Noun, singular or mass
+ruin	ruin	Noun, singular or mass
+envis	envis	Verb, 3rd person singular present
+kill	kill	Verb, base form
+necessary	necessary	Adjective
+asert	asert	Noun, singular or mass
+low	low	Adjective
+loan	loan	Noun, singular or mass
+builder	builder	Noun, singular or mass
+circular	circular	Adjective
+fend	fend	Verb, base form
+fall	fall	Noun, singular or mass
+interfere	interfere	Verb, base form
+bark	bark	Noun, singular or mass
+torn	tear	Verb, past participle
+bigotry	bigotry	Noun, singular or mass
+spoil	spoil	Noun, singular or mass
+wast	wast	Adjective
+isol	isol	Noun, singular or mass
+joke	joke	Noun, singular or mass
+ignor	ignor	Adjective
+dsperatd	dsperatd	Adjective
+ill	ill	Adjective
+wrst	wrst	Adjective
+dfame	dfame	Noun, singular or mass
+quit	quit	Verb, base form
+unfortune	unfortune	Noun, singular or mass
+âfoolproofâ	âfoolproofâ	Adverb
+lowcpec	lowcpec	Adjective
+despise	despise	Verb, base form
+thorn	thorn	Noun, singular or mass
+sold	sell	Verb, past participle
+puppet	puppet	Noun, singular or mass
+spread	spread	Noun, singular or mass
+unleash	unleash	Verb, base form
+burst	burst	Noun, singular or mass
+sadly	sadly	Adverb
+shake	shake	Verb, base form
+indulge	indulge	Verb, base form
+doldrum	doldrum	Noun, singular or mass
+deploy	deploy	Verb, base form
+compet	compet	Noun, singular or mass
+haha	haha	Noun, singular or mass
+distrust	distrust	Noun, singular or mass
+onsoci	onsoci	Adjective
+aspect	aspect	Noun, singular or mass
+resign	resign	Verb, base form
+profess	profess	Verb, base form
+vacate	vacate	Verb, base form
+preserve	preserve	Verb, base form
+estime	estime	Noun, singular or mass
+unconfirm	unconfirm	Verb, base form
+inspect	inspect	Verb, base form
+against	against	Preposition or subordinating conjunction
+
