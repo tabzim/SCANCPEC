@@ -1,4 +1,5 @@
-# SCANCPEC is a repository maintaining tweets about China Pakistan Economic Corridor (CPEC) extracted from the following time period:
+# SCANCPEC 
+SCANCPEC is a repository maintaining tweets about China Pakistan Economic Corridor (CPEC) extracted from the following time period:
 July 2013 to August 2017. 
 
 tabzim/SCANCPEC/Extracted Features (Sep2016-March 2017): NLP features extracted from a subset of tweets taken from: September 2016 to March 2017. 
